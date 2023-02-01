@@ -5,7 +5,7 @@ metadata:
   labels:
     run: busybox
   name: busybox
-  namespace: harsha
+ # namespace: harsha
 spec:
   containers:
   - image: busybox
