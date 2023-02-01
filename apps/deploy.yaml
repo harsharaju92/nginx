@@ -5,6 +5,7 @@ metadata:
   labels:
     app: testdeploy
   name: testdeploy
+  namespace: harsha
 spec:
   replicas: 1
   selector:
