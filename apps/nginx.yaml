@@ -5,6 +5,7 @@ metadata:
   labels:
     run: nginx
   name: nginx
+  namespace: harsha
 spec:
   containers:
   - image: nginx:1.19
